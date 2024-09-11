@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NutaposMoney</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pendapatan_lain">Pendapatan Lain\n</string>
+    <string name="pendapatan_lain_explanation">Contoh\n</string>
+    <string name="pendapatan_lain_examples">Contoh-contoh pendapatan lain\n</string>
+    <string name="non_pendapatan">Non Pendapatan</string>
+    <string name="non_pendapatan_explanation">Contoh</string>
+    <string name="non_pendapatan_examples">Contoh-contoh non pendapatan</string>
+    <string name="simpan">Simpan\n</string>
+    <string name="hapus_foto">Hapus foto</string>
+    <string name="ambil_foto">Ambil Foto</string>
+    <string name="jenis">Jenis</string>
+    <string name="lebih_tahu">Lebih tahu</string>
+    <string name="dari">Dari</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="uang_masuk">Uang Masuk</string>
+    <string name="masuk_ke">Masuk ke</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="select_month">Pilih bulan</string>
+    <string name="jam">Jam</string>
+    <string name="terima_dari">Terima dari</string>
+    <string name="buat_transaksi_uang_masuk">Buat transaksi uang masuk</string>
+    <string name="total_format">Total: %.2f</string>
+</resources>
